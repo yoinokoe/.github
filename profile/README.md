@@ -1,12 +1,25 @@
-## Hi there 👋
+## エンターテインメントの未来を創るテクノロジー×クリエイターの新時代プロジェクト「ヨイノコエプロジェクト」へようこそ！ 👋
 
-<!--
+**みなさん初めまして！ヨイノコエプロジェク代表のLunamikanです！**
 
-**Here are some ideas to get you started:**
+ヨイノコエプロジェクトとは、「一人ひとりに溶け込むエンターテインメント」を提供することを目的とし、クリエイションとサポートを包括的に取り組むプロジェクトです。([詳細はこちら](https://yoinokoe.jp/about-us/))
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+エンターテイメントには「コンテンツを楽しんで盛り上げ、発展させるリスナー/ファン」、「創造を形にしていくクリエイター」、そして「制作と公開、発展をサポートするサポーター」の3者が必要不可欠です。そしてこの3者全員に溶け込むエンターテイメントが大切だと私たちは考えています。
+
+しかしながら現在は3者がそれぞれ独自の文化やチームで活動されていることも多く、密接に関わりがあるとは言えない状況です。
+
+そこでヨイノコエプロジェクトでは、音楽・イラスト・動画を始めとする多種多様なクリエイターとITプログラマー、WEBデザイナーが一丸となり、オリジナルコンテンツの制作とプロジェクト内外のクリエイターサポートを行なっています。
+
+こうした活動を通して、異なる形で関わる全ての人が相互に作用できるようなエンターテイメントの未来を私たちは描いています。
+
+本GitHubプロジェクトでは主にクリエイターのサポートとエンターテイメント業界の発展の為にITの視点で寄与できるようツールやプログラムを提供していきますので、是非ご利用ください！
+
+## リンク集
+
+ヨイノコエプロジェクトに賛同していただける方は是非フォローや拡散をお願いします！
+
+[プロジェクト公式サイト](https://yoinokoe.jp/)
+
+[クリエイターズグループ公式X](https://x.com/YOINOKOE_GROUP)
+
+[ミュージックレーベル公式X](https://x.com/YE_RECORDS_JP)
